@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_CartoonWater_self_WaterFall
-  m_Shader: {fileID: -6465566751694194690, guid: 4f82349d5ad1361499b1990e14bc04fb,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 4f82349d5ad1361499b1990e14bc04fb, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -38,10 +37,10 @@ Material:
     - Vector1_4EF14630: 0.26
     - Vector1_5BA073C: -1.38
     - Vector1_691D53CC: 0.62
-    - Vector1_75B31AF7: 1
+    - Vector1_75B31AF7: 6.66
     - Vector1_9DD09C97: 3
     - Vector1_BDCAFB87: -0.41
-    - Vector1_C03CEA53: 0.08
+    - Vector1_C03CEA53: 0.34
     - Vector1_C3ABE9DA: 5.47
     - Vector1_C61E9B3: 4.71
     - Vector1_C622E903: 1
